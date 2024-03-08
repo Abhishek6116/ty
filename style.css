@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+}
+
+p,
+h1 {
+    color: white;
+}
+
+#main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+
+}
+
+img{
+    border: 2px solid white;
+
+    width: 60%;
+    margin-top: 80px;
+}
+
+h1 {
+    font-family: "Madimi One", sans-serif;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 10px;
+}
